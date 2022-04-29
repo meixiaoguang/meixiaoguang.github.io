@@ -16,4 +16,4 @@ author_profile: true
 {% endfor %} -->
 
 
-待补充...
+![照片](/images/emoji.jpg)
