@@ -33,7 +33,7 @@ author_profile: true
 7. Q. Jin, Y. Ma, **X. Mei*** and J. Ma, "Tanet: An unsupervised two-stream autoencoder network for hyperspectral unmixing," IEEE T. Geosci. Remote, 2021. [(code)](https://github.com/meixiaoguang/TANet)
 8. G. Fan, Y. Ma, **X. Mei***, F. Fan, J. Huang and J. Ma, "Hyperspectral anomaly detection with robust graph autoencoders," IEEE T. Geosci. Remote, 2021. [(code)](https://github.com/meixiaoguang/RGAE)
 9. H. Li, Y. Zhang, Y. Ma, **X. Mei***, S. Zeng and Y. Li, "Pairwise Elastic Net Representation-Based Classification for Hyperspectral Image Classification," Entropy-Switz., vol. 23, no. 8, pp. 956, 2021.
-10. Z. Peng, Y. Ma, **X. Mei***, J. Huang and F. Fan, "Hyperspectral Image Stitching via Optimal Seamline Detection," IEEE Geosci. Remote S., vol. 19, pp. 1-5, 2021.
+10. Z. Peng, Y. Ma, **X. Mei***, J. Huang and F. Fan, "Hyperspectral Image Stitching via Optimal Seamline Detection," IEEE Geosci. Remote S., vol. 19, pp. 1-5, 2021. [(code)](https://github.com/meixiaoguang/Hyperspectral-Image-Stitching-via-Optimal-Seamline-Detection)
 11. 樊港辉, 马泳, **梅晓光***, 黄珺, 樊凡 and 李皞, "空-谱协同自编码器的高光谱异常检测," 中国图象图形学报, 2021.
 12. Q. Jin, Y. Ma, F. Fan, J. Huang, **X. Mei*** and J. Ma, "Adversarial Autoencoder Network for Hyperspectral Unmixing," IEEE T. Neur. Net. Lear., 2021. [(code)](https://github.com/meixiaoguang/AAENet)
 13. J. Ma, S. Wang, K. Zhang, Z. He, J. Huang and **X. Mei**, "Fast and Robust Loop-closure Detection via Convolutional Auto-encoder and Motion Consensus," IEEE T. Ind. Inform., 2021.
