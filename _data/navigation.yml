@@ -8,7 +8,8 @@ main:
     url: /projects/  
 
   - title: "教学"
-    url: /teaching/    
+    # url: /teaching/
+    url: /teaching1/    
     
   - title: "荣誉奖励"
     # url: /portfolio/
