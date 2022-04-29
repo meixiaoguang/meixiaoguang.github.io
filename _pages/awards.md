@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " "
+title: "荣誉奖励"
 permalink: /awards/
 author_profile: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " "
+title: "其他"
 permalink: /others/
 author_profile: true
 ---

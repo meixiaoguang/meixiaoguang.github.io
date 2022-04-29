@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " "
+title: "科研项目"
 permalink: /projects/
 author_profile: true
 ---
