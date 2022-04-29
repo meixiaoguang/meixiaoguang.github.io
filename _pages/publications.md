@@ -17,6 +17,7 @@ author_profile: true
 
 
 # 期刊文章
+
 ## 2022
 
 1. Z. Li, Y. Ma, **X. Mei**, J. Huang and J. Ma, "Guided neighborhood affine subspace embedding for feature matching," Pattern Recogn., vol. 124, pp. 108489, 2022.
