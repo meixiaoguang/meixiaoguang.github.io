@@ -35,6 +35,6 @@ redirect_from:
 * IEEE Geoscience and Remote Sensing Letters
 * IEEE Access
 * Information Sciences
-* Infrared Physics & Technology.
+* Infrared Physics & Technology
 
-并担任Sensors期刊, Special Issue “Research and Application of Robust Hyperspectral Image”客座编辑。
+并担任Sensors期刊"Special Issue: Research and Application of Robust Hyperspectral Image"客座编辑。
