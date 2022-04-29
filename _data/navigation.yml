@@ -4,16 +4,19 @@ main:
     url: /publications/
 
   - title: "科研项目"
-    url: /talks/    
+    # url: /talks/    
+    url: /projects/  
 
   - title: "教学"
     url: /teaching/    
     
   - title: "荣誉奖励"
-    url: /portfolio/
+    # url: /portfolio/
+    url: /awards/  
         
-  - title: "招生政策"
-    url: /year-archive/
+  - title: "其他"
+    # url: /year-archive/
+    url: /others/  
     
 #  - title: "CV"
 #     url: /cv/
