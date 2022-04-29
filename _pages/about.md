@@ -21,4 +21,16 @@ redirect_from:
 * 2016.5–2019.4 武汉大学 电子信息学院  博士后
 * 2010.10-2012.7 中船重工第七二二研究所  嵌入式软件工程师
 
+## 学术兼职
+担任以下期刊审稿人工作：
+* IEEE Transactions Image Processing
+* IEEE Transactions on Geoscience and Remote Sensing
+* IEEE Transactions on Computational Imaging
+* IEEE Journal of Selected Topics in Signal Processing
+* IEEE J-STARS
+* IEEE Geoscience and Remote Sensing Letters
+* IEEE Access
+* Information Sciences
+* Infrared Physics & Technology.
 
+并担任Sensors期刊, Special Issue “Research and Application of Robust Hyperspectral Image”客座编辑。
