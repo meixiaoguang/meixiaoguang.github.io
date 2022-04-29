@@ -3,6 +3,9 @@ main:
   - title: "学术论文"
     url: /publications/
 
+  - title: "专利"
+    url: /patents/
+
   - title: "科研项目"
     # url: /talks/    
     url: /projects/  
