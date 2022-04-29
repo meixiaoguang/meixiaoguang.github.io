@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**梅晓光**，1984年10月出生，湖北宜都人，博士，武汉大学电子信息学院副教授，硕士生导师。2007年本科毕业于华中科技大学，获通信工程学士学位；2011年硕士毕业于华中师范大学，获通信与信息系统硕士学位，随后于中船重工722研究所从事舰船通信系统研制工作；2016年博士毕业于华中科技大学，获电路与系统博士学位，期间荣获“博士研究生国家奖学金”。2016年进入武汉大学电子信息学院，从事博士后研究工作，出站后留校晋升为副教授。主要从事高/超光谱应用中的计算机视觉、模式识别、机器学习等问题的研究，目前已在IEEE TIP/TNNLS/TGRS/TII/GRSL/JSTARS、Information Sciences、Pattern Recognition等国际权威期刊和CVPR、IROS等国际顶级会议上发表论文60余篇，其中高被引论文3篇，授权国家发明专利7项。主持了包括军委科技委前沿创新、国家自然科学基金、装备预研教育部联合基金青年人才、中国博士后科学基金等多项科研项目。获中国自动化学会自然科学二等奖。担任IEEE TGRS/GRSL/ACCESS/J-STARS/TCI、Information Sciences、Infrared Physics & Technology等重要期刊审稿人。[(English Portal)](http://mvp.whu.edu.cn/xiaoguang-mei/) 
+**梅晓光**，1984年10月出生，湖北宜都人，博士，武汉大学电子信息学院副教授，硕士生导师。2016年博士毕业于华中科技大学，获电路与系统博士学位，期间荣获“博士研究生国家奖学金”。2016年进入武汉大学电子信息学院，从事博士后研究工作，出站后留校晋升为副教授。主要从事高/超光谱应用中的计算机视觉、模式识别、机器学习等问题的研究，目前已在IEEE TIP/TNNLS/TGRS/TII/GRSL/JSTARS、Information Sciences、Pattern Recognition等国际权威期刊和CVPR、IROS等国际顶级会议上发表论文60余篇，其中高被引论文3篇，授权国家发明专利7项。主持了包括军委科技委前沿创新、国家自然科学基金、装备预研教育部联合基金青年人才、中国博士后科学基金等多项科研项目。获中国自动化学会自然科学二等奖。担任IEEE TGRS/GRSL/ACCESS/J-STARS/TCI、Information Sciences、Infrared Physics & Technology等重要期刊审稿人。[(English Portal)](http://mvp.whu.edu.cn/xiaoguang-mei/) 
 
 ## 教育背景
 * 2012.9-2016.3 华中科技大学 电路与系统  博士
