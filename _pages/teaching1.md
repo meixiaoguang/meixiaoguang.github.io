@@ -10,7 +10,7 @@ author_profile: true
 ## 《数字系统基础》，2021年秋季
 
 ### 学时：
-* 总计68学时。56学时理论课+12学时实验课。
+* 总计68学时，56学时理论课+12学时实验课。
   
 ### 参考教材: 
 * 自编讲义；
@@ -19,3 +19,4 @@ author_profile: true
 * Digital Design: A Systems Approach  美William James Dally等著 剑桥大学出版社，2012。
 
 # 研究生：
+--
