@@ -11,12 +11,12 @@ main:
     url: /teaching/    
     
   - title: "荣誉奖励"
-    # url: /portfolio/
-    url: /awards/  
+    url: /portfolio/
+    # url: /awards/  
         
   - title: "其他"
-    # url: /year-archive/
-    url: /others/  
+    url: /year-archive/
+    # url: /others/  
     
 #  - title: "CV"
 #     url: /cv/
