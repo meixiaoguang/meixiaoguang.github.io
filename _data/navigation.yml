@@ -21,6 +21,10 @@ main:
   - title: "其他"
     # url: /year-archive/
     url: /others/  
+
+  - title: "EN"
+    # url: /year-archive/
+    url: /EN/  
     
 #  - title: "CV"
 #     url: /cv/
