@@ -18,7 +18,7 @@ author_profile: true
 * Reviewer for IEEE TIP/GRSL/TCI/TSP/JSTARS/GRSL/ACCESS, Information Sciences, Infrared Physics & Technology, etc
 * IEEE Member
 
-# 📖 Publications
+# 📝 Publications
 
 ## Journal Papers
 ### 2022
@@ -44,9 +44,9 @@ author_profile: true
 15. Y. Yu, Y. Ma, **X. Mei**, F. Fan, J. Huang and J. Ma, "A Spatial-Spectral Feature Descriptor for Hyperspectral Image Matching," Remote Sens.-Basel, vol. 13, no. 23, pp. 4912, 2021.
     
 ### 2020
-1. J. Chen, X. Li, L. Luo, **X. Mei*** and J. Ma, "Infrared and visible image fusion based on target-enhanced multiscale transform decomposition," Inform. Sciences, vol. 508, pp. 64-78, 2020. <font color=red>(ESI highly cited paper)</font> [(code)](https://github.com/meixiaoguang/TE-MST)
+1. J. Chen, X. Li, L. Luo, **X. Mei*** and J. Ma, "Infrared and visible image fusion based on target-enhanced multiscale transform decomposition," Inform. Sciences, vol. 508, pp. 64-78, 2020. <font color=red>(ESI highly cited paper)</font> [(code)](https://github.com/meixiaoguang/TE-MST) 🔥🔥
 2. E. Pan, **X. Mei**, Q. Wang, Y. Ma and J. Ma, "Spectral-spatial classification for hyperspectral image based on a single GRU," Neurocomputing, vol. 387, pp. 150-160, 2020.
-3. J. Ma, H. Xu, J. Jiang, **X. Mei*** and X. Zhang, "DDcGAN: A dual-discriminator conditional generative adversarial network for multi-resolution image fusion," IEEE T. Image Process., vol. 29, pp. 4980-4995, 2020. <font color=red>(ESI highly cited paper)</font> [(code)](https://github.com/meixiaoguang/DDcGAN)
+3. J. Ma, H. Xu, J. Jiang, **X. Mei*** and X. Zhang, "DDcGAN: A dual-discriminator conditional generative adversarial network for multi-resolution image fusion," IEEE T. Image Process., vol. 29, pp. 4980-4995, 2020. <font color=red>(ESI highly cited paper)</font> [(code)](https://github.com/meixiaoguang/DDcGAN) 🔥🔥
 4. J. Huang, Z. Le, Y. Ma, **X. Mei** and F. Fan, "A generative adversarial network with adaptive constraints for multi-focus image fusion," Neural Computing and Applications, vol. 32, no. 18, pp. 15119-15129, 2020. [(code)](https://github.com/meixiaoguang/NCAA_code)
 5. Y. Wang, **X. Mei**, Y. Ma, J. Huang, F. Fan and J. Ma, "Learning to find reliable correspondences with local neighborhood consensus," Neurocomputing, vol. 406, pp. 150-158, 2020.
 6. M. Wu, Y. Ma, F. Fan, **X. Mei** and J. Huang, "Infrared and visible image fusion via joint convolutional sparse representation," JOSA A, vol. 37, no. 7, pp. 1105-1115, 2020.
@@ -57,7 +57,7 @@ author_profile: true
 1. J. Wang, J. Chen, H. Xu, S. Zhang, **X. Mei***, J. Huang, J. Ma, "Gaussian field estimator with manifold regularization for retinal image registration," Signal Process., vol. 157, pp. 225-235, 2019. [(code)](https://github.com/meixiaoguang/GFEMR)
 2. Y. Ma, Y. Wang, **X. Mei**, C. Liu, X. Dai, F. Fan, J. Huang, "Visible/infrared combined 3D reconstruction scheme based on nonrigid registration of multi-modality images with mixed features," IEEE Access, vol. 7, pp. 19199-19211, 2019.
 3. Y. Ma, Q. Jin, **X. Mei***, X. Dai, F. Fan, H. Li, J. Huang, "Hyperspectral unmixing with Gaussian mixture model and low-rank representation," Remote Sens.-Basel, vol. 11, no. 8, pp. 911, 2019. [(code)](https://github.com/meixiaoguang/GMM-SS-LRR)
-4. **X. Mei**, E. Pan, Y. Ma, X. Dai, J. Huang, F. Fan, Q. Du, H. Zheng, J. Ma, "Spectral-spatial attention networks for hyperspectral image classification," Remote Sens.-Basel, vol. 11, no. 8, pp. 963, 2019. <font color=red>(ESI highly cited paper)</font> [(code)](https://github.com/meixiaoguang/SSAN)
+4. **X. Mei**, E. Pan, Y. Ma, X. Dai, J. Huang, F. Fan, Q. Du, H. Zheng, J. Ma, "Spectral-spatial attention networks for hyperspectral image classification," Remote Sens.-Basel, vol. 11, no. 8, pp. 963, 2019. <font color=red>(ESI highly cited paper)</font> [(code)](https://github.com/meixiaoguang/SSAN) 🔥🔥
 5. Q. Jin, Y. Ma, E. Pan, F. Fan, J. Huang, H. Li, C. Sui, **X. Mei***, "Hyperspectral unmixing with Gaussian mixture model and spatial group sparsity," Remote Sens.-Basel, vol. 11, no. 20, pp. 2434, 2019. [(code)](https://github.com/meixiaoguang/SGSGMM)
 6. C. Sui, C. Li, J. Feng and **X. Mei**, "Unsupervised manifold-preserving and weakly redundant band selection method for hyperspectral imagery," IEEE T. Geosci. Remote, vol. 58, no. 2, pp. 1156-1170, 2019.
 7. Y. Ma, Y. Zhang, **X. Mei***, X. Dai and J. Ma, "Multifeature-based discriminative label consistent k-svd for hyperspectral image classification," Ieee J.-Stars, vol. 12, no. 12, pp. 4995-5008, 2019.
