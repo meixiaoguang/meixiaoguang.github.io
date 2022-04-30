@@ -27,7 +27,7 @@ redirect_from:
 * 计算机视觉
 
 ## 🛠️ 学术兼职
-担任以下期刊审稿人工作：
+担任以下期刊审稿人工作:
 * IEEE Transactions Image Processing
 * IEEE Transactions on Geoscience and Remote Sensing
 * IEEE Transactions on Computational Imaging
