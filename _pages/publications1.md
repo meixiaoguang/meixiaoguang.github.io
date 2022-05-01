@@ -7,7 +7,7 @@
 
 ## 2021
 1. 徐涵, **梅晓光***, 樊凡, 马泳 and 马佳义, "分离表征和指标驱动的红外可见光图像融合," 中国图象图形学报, 2021.
-2. Y. Zhang, Y. Ma, X. Dai, H. Li, **X. Mei*** and J. Ma, "Locality-constrained sparse representation for hyperspectral image classification," Inform. Sciences, vol. 546, pp. 858-870, 2021.
+2. Y. Zhang, Y. Ma, X. Dai, H. Li, **X. Mei*** and J. Ma, "Locality-constrained sparse representation for hyperspectral image classification," Inform. Sciences, vol. 546, pp. 858-870, 2021. [![](https://img.shields.io/github/stars/meixiaoguang/LSRC?style=social&label=Code+Stars)](https://github.com/meixiaoguang/LSRC)
 3. C. Sui, J. Zhou, C. Li, Q. Zhang, J. Feng, **X. Mei**, J. Wang, "Unsupervised hyperspectral band selection with multigraph integrated embedding and robust self-contained regression," IEEE T. Geosci. Remote, vol. 60, pp. 1-15, 2021.
 4. E. Pan, Y. Ma, F. Fan, **X. Mei** and J. Huang, "Hyperspectral Image Classification across Different Datasets: A Generalization to Unseen Categories," Remote Sens.-Basel, vol. 13, no. 9, pp. 1672, 2021.
 5. J. Ma, X. Ye, H. Zhou, **X. Mei** and F. Fan, "Loop-closure detection using local relative orientation matching," IEEE T. Intell. Transp., 2021.
