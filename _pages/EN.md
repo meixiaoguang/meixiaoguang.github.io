@@ -19,7 +19,7 @@ author_profile: true
 * IEEE Member
 
 
-{% include_relative publication.md %}
+{% include_relative publications.md %}
 
 <!-- # 📝 Publications
 
