@@ -1,12 +1,3 @@
----
-layout: archive
-title: ""
-permalink: /publications/
-author_profile: true
----
-
-
-
 # 📝 Journal Papers
 
 ## 2022
