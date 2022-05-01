@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% include_relative publications1.md %}
 
-
-# 📝 期刊文章
+<!-- # 📝 期刊文章
 
 ## 2022
 
@@ -93,3 +93,4 @@ author_profile: true
 8.  E. Pan, Y. Ma, **X. Mei**, X. Dai, F. Fan, X. Tian, and J. Ma, “Spectral-spatial classification of hyperspectral image based on a joint attention network,” in **IGARSS** 2019 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2019, pp. 413–416.
 9.  F. Fan, Y. Ma, X. Dai, **X. Mei**, “An optimization model for infrared image enhancement method based on pq norm constrained by saliency value,”  in 2017 9th International Conference on Graphic and Image Processing **(ICGIP 2017)**. International Society for Optics and Photonics, 2018, 10615: 106152P.
 10. H. Xia, G. Zhang, M. Chen, and **X. Mei**, “Two-round cooperation based spectrum sensing in cognitive radio networks,” in 2010 6th International Conference on Wireless Communications Networking and Mobile Computing **(WiCOM)**. IEEE, 2010, pp. 1–5.
+ -->
