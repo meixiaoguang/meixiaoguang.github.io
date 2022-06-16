@@ -4,6 +4,7 @@
 
 1. Z. Li, Y. Ma, **X. Mei**, J. Huang and J. Ma, "Guided neighborhood affine subspace embedding for feature matching," Pattern Recogn., vol. 124, pp. 108489, 2022.
 2. E. Pan, Y. Ma, **X. Mei***, F. Fan, J. Huang and J. Ma, "SQAD: Spatial-Spectral Quasi-Attention Recurrent Network for Hyperspectral Image Denoising," IEEE T. Geosci. Remote, vol. 60, pp. 1-14, 2022. [![](https://img.shields.io/github/stars/meixiaoguang/SQAD?style=social&label=Code+Stars)](https://github.com/meixiaoguang/SQAD)
+3. A. Fan, J. Ma, X. Tian, **X. Mei**, W. Liu,"Coherent Point Drift Revisited for Non-Rigid Shape Matching and Registration," Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022.
 
 ## 2021
 1. 徐涵, **梅晓光***, 樊凡, 马泳 and 马佳义, "分离表征和指标驱动的红外可见光图像融合," 中国图象图形学报, 2021.
