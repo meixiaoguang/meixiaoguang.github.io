@@ -1,7 +1,8 @@
 # 📝 Journal Papers
 
 ## 2022
-
+1. Y. Zhang, **X. Mei**, Y. Ma, X. Jiang, Z. Peng, J. Huang, "Hyperspectral Panoramic Image Stitching Using Robust Matching and Adaptive Bundle Adjustment," Remote Sensing, 4(16): 4038, 2022
+1. Z. Le, J. Huang, H. Xu, F. Fan, Y. Ma, **X. Mei**, J. Ma, "UIFGAN: An unsupervised continual-learning generative adversarial network for unified image fusion," Information Fusion, 2022.
 1. Z. Li, Y. Ma, **X. Mei**, J. Huang and J. Ma, "Guided neighborhood affine subspace embedding for feature matching," Pattern Recogn., vol. 124, pp. 108489, 2022.
 2. Q. Jin, Y. Ma, **X. Mei*** and J. Ma, "TANet: An Unsupervised Two-Stream Autoencoder Network for Hyperspectral Unmixing," IEEE T. Geosci. Remote, vol. 60, pp. 1-15, 2022. [![](https://img.shields.io/github/stars/meixiaoguang/TANet?style=social&label=Code+Stars)](https://github.com/meixiaoguang/TANet)
 3. E. Pan, Y. Ma, **X. Mei***, F. Fan, J. Huang and J. Ma, "SQAD: Spatial-Spectral Quasi-Attention Recurrent Network for Hyperspectral Image Denoising," IEEE T. Geosci. Remote, vol. 60, pp. 1-14, 2022. [![](https://img.shields.io/github/stars/meixiaoguang/SQAD?style=social&label=Code+Stars)](https://github.com/meixiaoguang/SQAD)
