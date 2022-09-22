@@ -1,6 +1,7 @@
 # 📝 Journal Papers
 
 ## 2022
+1. Y. Yao, M. Wang, G. Fan, W. Liu, Y. Ma, **X. Mei**, "Dictionary Learning-Cooperated Matrix Decomposition for Hyperspectral Target Detection. Remote Sensing," 14(17), 4369, 2022
 1. Y. Yu, Y. Ma, **X. Mei***, F. Fan, J. Huang, H.  Li, "Multi-stage convolutional autoencoder network for hyperspectral unmixing. International Journal of Applied Earth Observation and Geoinformation," 113, 102981, 2022
 1. S. Mei, Y. Ma, **X. Mei**, J. Huang, F. Fan, "S2-Net: Self-Supervision Guided Feature Representation Learning for Cross-Modality Images. IEEE/CAA Journal of Automatica Sinica," 9(10), 1883-1885, 2022
 1. Y. Zhang, **X. Mei**, Y. Ma, X. Jiang, Z. Peng, J. Huang, "Hyperspectral Panoramic Image Stitching Using Robust Matching and Adaptive Bundle Adjustment," Remote Sensing, 4(16): 4038, 2022
