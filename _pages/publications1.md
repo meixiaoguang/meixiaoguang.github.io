@@ -1,6 +1,8 @@
 # 📝 Journal Papers
 
 ## 2022
+1. E. Pan, Y. Ma, **X. Mei**, J. Huang, F. Fan and J. Ma, "Letter: D2Net: Deep denoising network in frequency domain for hyperspectral image," in IEEE/CAA Journal of Automatica Sinica, doi: 10.1109/JAS.2022.106019.
+1. H. Xu, Y. Sun, **X. Mei**, X. Tian and J. Ma, "Attention-Guided Polarization Image Fusion Using Salient Information Distribution," in IEEE Transactions on Computational Imaging, vol. 8, pp. 1117-1130, 2022, doi: 10.1109/TCI.2022.3228633.
 1. Y. Yao, M. Wang, G. Fan, W. Liu, Y. Ma, **X. Mei**, "Dictionary Learning-Cooperated Matrix Decomposition for Hyperspectral Target Detection. Remote Sensing," 14(17), 4369, 2022
 1. Y. Yu, Y. Ma, **X. Mei***, F. Fan, J. Huang, H.  Li, "Multi-stage convolutional autoencoder network for hyperspectral unmixing. International Journal of Applied Earth Observation and Geoinformation," 113, 102981, 2022
 1. S. Mei, Y. Ma, **X. Mei**, J. Huang, F. Fan, "S2-Net: Self-Supervision Guided Feature Representation Learning for Cross-Modality Images. IEEE/CAA Journal of Automatica Sinica," 9(10), 1883-1885, 2022
@@ -10,6 +12,9 @@
 1. Q. Jin, Y. Ma, **X. Mei*** and J. Ma, "TANet: An Unsupervised Two-Stream Autoencoder Network for Hyperspectral Unmixing," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-15, 2022.[![](https://img.shields.io/github/stars/meixiaoguang/TANet?style=social&label=Code+Stars)](https://github.com/meixiaoguang/TANet)
 3. E. Pan, Y. Ma, **X. Mei***, F. Fan, J. Huang and J. Ma, "SQAD: Spatial-Spectral Quasi-Attention Recurrent Network for Hyperspectral Image Denoising," IEEE T. Geosci. Remote, vol. 60, pp. 1-14, 2022. [![](https://img.shields.io/github/stars/meixiaoguang/SQAD?style=social&label=Code+Stars)](https://github.com/meixiaoguang/SQAD)
 4. J. Ma, L. Tang, F. Fan, J. Huang, **X. Mei**, Y. Ma, "SwinFusion: Cross-domain Long-range Learning for General Image Fusion via Swin Transformer," IEEE/CAA Journal of Automatica Sinica, 9(7), 1200-1217, 2022. [![](https://img.shields.io/github/stars/meixiaoguang/SwinFusion?style=social&label=Code+Stars)](https://github.com/meixiaoguang/SwinFusion)
+
+1. Zhao-bing Qiu, Yong Ma, Fan Fan, Jun Huang, Ming-hui Wu, **Xiao-guang Mei**,
+A pixel-level local contrast measure for infrared small target detection, Defence Technology, Volume 18, Issue 9, 2022, Pages 1589-1601,
 
 
 
