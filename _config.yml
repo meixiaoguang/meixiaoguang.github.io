@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "梅晓光 (Xiaoguang Mei)-学术主页"
+title                    : "梅晓光学术主页"
 title_separator          : "-"
 name                     : &name "Xiaoguang Mei"
 description              : &description "personal description"
