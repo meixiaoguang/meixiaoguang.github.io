@@ -1,24 +1,24 @@
 # main links links
 main:
-  - title: "学术论文"
+  - title: "学术论文(Papers)"
     url: /publications/
 
-  - title: "专利"
+  - title: "专利(Patents)"
     url: /patents/
 
-  - title: "科研项目"
+  - title: "科研项目(Projects)"
     # url: /talks/    
     url: /projects/  
 
-  - title: "教学"
+  - title: "教学(Teaching)"
     # url: /teaching/
     url: /teaching1/    
     
-  - title: "荣誉奖励"
+  - title: "荣誉奖励(Awards)"
     # url: /portfolio/
     url: /awards/  
         
-  - title: "其他"
+  - title: "其他(Scribble)"
     # url: /year-archive/
     url: /others/  
 
