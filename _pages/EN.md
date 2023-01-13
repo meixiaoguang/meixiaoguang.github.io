@@ -19,7 +19,7 @@ author_profile: true
 * IEEE Member
 
 # 📧 Contact
-![照片](/images/gmail.png) (**preferred**)
+![照片](/images/gmail.png) **(Preferred)**
 
 ![照片](/images/mailwhu.png)
 
