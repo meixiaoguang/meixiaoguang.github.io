@@ -18,9 +18,9 @@ main:
     # url: /portfolio/
     url: /awards/  
         
-  - title: "其他(Scribble)"
+  #- title: "其他(Scribble)"
     # url: /year-archive/
-    url: /others/  
+  #  url: /others/  
 
   - title: "EN"
     # url: /year-archive/
