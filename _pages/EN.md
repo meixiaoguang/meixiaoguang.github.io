@@ -19,9 +19,9 @@ author_profile: true
 * IEEE Member
 
 ## 📧 Contact
+![照片](/images/gmail.png) (**preferred**)
 
-* E-Mail：
-![照片](/images/gmail.png) ![照片](/images/mailwhu.png)
+![照片](/images/mailwhu.png)
 
 
 {% include_relative publications1.md %}
