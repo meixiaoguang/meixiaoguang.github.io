@@ -15,6 +15,7 @@
 
 1. Zhao-bing Qiu, Yong Ma, Fan Fan, Jun Huang, Ming-hui Wu, **Xiao-guang Mei**,
 A pixel-level local contrast measure for infrared small target detection, Defence Technology, Volume 18, Issue 9, 2022, Pages 1589-1601,
+1. 樊港辉, 马泳, **梅晓光***, 黄珺, 樊凡, & 李皞. 空域协同自编码器的高光谱异常检测. 中国图象图形学报, 2022, 27(10): 3116-3126.
 
 
 
@@ -28,7 +29,7 @@ A pixel-level local contrast measure for infrared small target detection, Defenc
 8. G. Fan, Y. Ma, **X. Mei***, F. Fan, J. Huang and J. Ma, "Hyperspectral anomaly detection with robust graph autoencoders," IEEE T. Geosci. Remote, 2021. [![](https://img.shields.io/github/stars/meixiaoguang/RGAE?style=social&label=Code+Stars)](https://github.com/meixiaoguang/RGAE)
 9. H. Li, Y. Zhang, Y. Ma, **X. Mei**, S. Zeng and Y. Li, "Pairwise Elastic Net Representation-Based Classification for Hyperspectral Image Classification," Entropy-Switz., vol. 23, no. 8, pp. 956, 2021.
 10. Z. Peng, Y. Ma, **X. Mei***, J. Huang and F. Fan, "Hyperspectral Image Stitching via Optimal Seamline Detection," IEEE Geosci. Remote S., vol. 19, pp. 1-5, 2021. [![](https://img.shields.io/github/stars/meixiaoguang/Hyperspectral-Image-Stitching-via-Optimal-Seamline-Detection?style=social&label=Code+Stars)](https://github.com/meixiaoguang/Hyperspectral-Image-Stitching-via-Optimal-Seamline-Detection)
-11. 樊港辉, 马泳, **梅晓光***, 黄珺, 樊凡 and 李皞, "空-谱协同自编码器的高光谱异常检测," 中国图象图形学报, 2021.
+
 12. Q. Jin, Y. Ma, F. Fan, J. Huang, **X. Mei*** and J. Ma, "Adversarial Autoencoder Network for Hyperspectral Unmixing," IEEE T. Neur. Net. Lear., 2021. [![](https://img.shields.io/github/stars/meixiaoguang/AAENet?style=social&label=Code+Stars)](https://github.com/meixiaoguang/AAENet)
 13. J. Ma, S. Wang, K. Zhang, Z. He, J. Huang and **X. Mei**, "Fast and Robust Loop-closure Detection via Convolutional Auto-encoder and Motion Consensus," IEEE T. Ind. Inform., 2021.
 14. A. Fan, X. Jiang, Y. Ma, **X. Mei** and J. Ma, "Smoothness-Driven Consensus Based on Compact Representation for Robust Feature Matching," IEEE T. Neur. Net. Lear., 2021. [![](https://img.shields.io/github/stars/meixiaoguang/CompactRepresentationConsensus?style=social&label=Code+Stars)](https://github.com/meixiaoguang/CompactRepresentationConsensus)
