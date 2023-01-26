@@ -1,6 +1,8 @@
 # 📝 Journal Papers
 
+
 ## 2022
+1. X. Wang, Y. Cheng, **X. Mei**, J. Jiang and J. Ma, "Group Shuffle and Spectral-Spatial Fusion for Hyperspectral Image Super-Resolution," in IEEE Transactions on Computational Imaging, vol. 8, pp. 1223-1236, 2022
 1. E. Pan, Y. Ma, **X. Mei***, J. Huang, F. Fan and J. Ma, "Letter: D2Net: Deep denoising network in frequency domain for hyperspectral image," in IEEE/CAA Journal of Automatica Sinica, doi: 10.1109/JAS.2022.106019.
 1. H. Xu, Y. Sun, **X. Mei**, X. Tian and J. Ma, "Attention-Guided Polarization Image Fusion Using Salient Information Distribution," in IEEE Transactions on Computational Imaging, vol. 8, pp. 1117-1130, 2022, doi: 10.1109/TCI.2022.3228633.
 1. Y. Yao, M. Wang, G. Fan, W. Liu, Y. Ma, **X. Mei**, "Dictionary Learning-Cooperated Matrix Decomposition for Hyperspectral Target Detection. Remote Sensing," 14(17), 4369, 2022
