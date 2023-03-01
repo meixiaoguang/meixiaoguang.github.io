@@ -35,7 +35,6 @@ redirect_from:
 
 * 担任以下期刊审稿人工作:
 IEEE Transactions on Image Processing, IEEE Transactions on Geoscience and Remote Sensing, IEEE Transactions on Computational Imaging, IEEE Journal of Selected Topics in Signal Processing, IEEE J-STARS, IEEE Geoscience and Remote Sensing Letters, IEEE Access, Pattern Recognition, Information Sciences, Infrared Physics & Technology
-
 * 担任Sensors期刊"Special Issue: Research and Application of Robust Hyperspectral Image"客座编辑
 
 ## 📧 联系方式
