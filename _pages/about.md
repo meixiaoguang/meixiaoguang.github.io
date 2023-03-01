@@ -42,8 +42,4 @@ IEEE Transactions on Image Processing, IEEE Transactions on Geoscience and Remot
 
 * 办公室地址：武汉大学电子信息学院东科技楼219室
 
-* 电子邮箱：
-
-![照片](/images/gmail.png) **<font color=red>(优先)</font>**
-
-![照片](/images/mailwhu.png)
+* 电子邮箱：**<font color=red>(优先)</font>**![照片](/images/gmail.png) ![照片](/images/mailwhu.png)
