@@ -1,7 +1,11 @@
 # 📝 Journal Papers
 
+## 2023
+1. W. Dong, Y. Chen, A. Li, **X. Mei** & Y. Yang, "Automatic detection of adenoid hypertrophy on cone-beam computed tomography based on deep learning," American Journal of Orthodontics and Dentofacial Orthopedics, 163(4), 553-560, 2023 (**<font color=red>On the cover</font>**)
+
 
 ## 2022
+1. 徐涵, **梅晓光***, 樊凡, 马泳, & 马佳义, 信息分离和质量引导的红外与可见光图像融合, 中国图象图形学报, 27(11), 3316-3330, 2022
 1. X. Wang, Y. Cheng, **X. Mei**, J. Jiang and J. Ma, "Group Shuffle and Spectral-Spatial Fusion for Hyperspectral Image Super-Resolution," in IEEE Transactions on Computational Imaging, vol. 8, pp. 1223-1236, 2022
 1. E. Pan, Y. Ma, **X. Mei***, J. Huang, F. Fan and J. Ma, "Letter: D2Net: Deep denoising network in frequency domain for hyperspectral image," in IEEE/CAA Journal of Automatica Sinica, doi: 10.1109/JAS.2022.106019.
 1. H. Xu, Y. Sun, **X. Mei**, X. Tian and J. Ma, "Attention-Guided Polarization Image Fusion Using Salient Information Distribution," in IEEE Transactions on Computational Imaging, vol. 8, pp. 1117-1130, 2022, doi: 10.1109/TCI.2022.3228633.
@@ -9,14 +13,16 @@
 1. Y. Yu, Y. Ma, **X. Mei***, F. Fan, J. Huang, H.  Li, "Multi-stage convolutional autoencoder network for hyperspectral unmixing. International Journal of Applied Earth Observation and Geoinformation," 113, 102981, 2022
 1. S. Mei, Y. Ma, **X. Mei**, J. Huang, F. Fan, "S2-Net: Self-Supervision Guided Feature Representation Learning for Cross-Modality Images. IEEE/CAA Journal of Automatica Sinica," 9(10), 1883-1885, 2022
 1. Y. Zhang, **X. Mei**, Y. Ma, X. Jiang, Z. Peng, J. Huang, "Hyperspectral Panoramic Image Stitching Using Robust Matching and Adaptive Bundle Adjustment," Remote Sensing, 4(16): 4038, 2022
-1. Z. Le, J. Huang, H. Xu, F. Fan, Y. Ma, **X. Mei**, J. Ma, "UIFGAN: An unsupervised continual-learning generative adversarial network for unified image fusion," Information Fusion, 2022.
-1. Z. Li, Y. Ma, **X. Mei**, J. Huang and J. Ma, "Guided neighborhood affine subspace embedding for feature matching," Pattern Recogn., vol. 124, pp. 108489, 2022.
+1. Z. Le, J. Huang, H. Xu, F. Fan, Y. Ma, **X. Mei**, J. Ma, "UIFGAN: An unsupervised continual-learning generative adversarial network for unified image fusion," Information Fusion, 2022
+1. Z. Li, Y. Ma, **X. Mei**, J. Huang and J. Ma, "Guided neighborhood affine subspace embedding for feature matching," Pattern Recogn., vol. 124, pp. 108489, 2022
 1. Q. Jin, Y. Ma, **X. Mei*** and J. Ma, "TANet: An Unsupervised Two-Stream Autoencoder Network for Hyperspectral Unmixing," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-15, 2022.[![](https://img.shields.io/github/stars/meixiaoguang/TANet?style=social&label=Code+Stars)](https://github.com/meixiaoguang/TANet)
-3. E. Pan, Y. Ma, **X. Mei***, F. Fan, J. Huang and J. Ma, "SQAD: Spatial-Spectral Quasi-Attention Recurrent Network for Hyperspectral Image Denoising," IEEE T. Geosci. Remote, vol. 60, pp. 1-14, 2022. [![](https://img.shields.io/github/stars/meixiaoguang/SQAD?style=social&label=Code+Stars)](https://github.com/meixiaoguang/SQAD)
+3. E. Pan, Y. Ma, **X. Mei***, F. Fan, J. Huang and J. Ma, "SQAD: Spatial-Spectral Quasi-Attention Recurrent Network for Hyperspectral Image Denoising," IEEE T. Geosci. Remote, vol. 60, pp. 1-14, 2022 [![](https://img.shields.io/github/stars/meixiaoguang/SQAD?style=social&label=Code+Stars)](https://github.com/meixiaoguang/SQAD)
 4. J. Ma, L. Tang, F. Fan, J. Huang, **X. Mei**, Y. Ma, "SwinFusion: Cross-domain Long-range Learning for General Image Fusion via Swin Transformer," IEEE/CAA Journal of Automatica Sinica, 9(7), 1200-1217, 2022. [![](https://img.shields.io/github/stars/meixiaoguang/SwinFusion?style=social&label=Code+Stars)](https://github.com/meixiaoguang/SwinFusion)
 1. Zhao-bing Qiu, Yong Ma, Fan Fan, Jun Huang, Ming-hui Wu, **Xiao-guang Mei**,
 A pixel-level local contrast measure for infrared small target detection, Defence Technology, Volume 18, Issue 9, 2022, Pages 1589-1601,
-1. 樊港辉, 马泳, **梅晓光***, 黄珺, 樊凡, & 李皞. 空域协同自编码器的高光谱异常检测. 中国图象图形学报, 2022, 27(10): 3116-3126.
+1. 樊港辉, 马泳, **梅晓光***, 黄珺, 樊凡, & 李皞. 空域协同自编码器的高光谱异常检测. 中国图象图形学报, 27(10): 3116-3126, 2022
+1. C. Ma, J. Jiang, H. Li, **X. Mei** & C. Bai, "Hyperspectral Image Classification via Spectral Pooling and Hybrid Transformer. Remote Sensing," 14(19), 4732, 2022
+
 
 
 
