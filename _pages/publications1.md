@@ -2,12 +2,14 @@
 
 ## 2023
 1. W. Dong, Y. Chen, A. Li, **X. Mei** & Y. Yang, "Automatic detection of adenoid hypertrophy on cone-beam computed tomography based on deep learning," American Journal of Orthodontics and Dentofacial Orthopedics, 163(4), 553-560, 2023 (**<font color=red>On the cover</font>**)
-
+1. Pan, E., Ma, Y., **Mei, X.**, Fan, F., & Ma, J. (2023). Hyperspectral image denoising via spectral noise distribution bootstrap. Pattern Recognition, 142, 109699. [![](https://img.shields.io/github/stars/meixiaoguang/N-Net?style=social&label=Code+Stars)](https://github.com/meixiaoguang/N-Net)
+1. Li, Z., Ma, Y., **Mei, X.**, & Ma, J. (2023). Two-view correspondence learning using graph neural network with reciprocal neighbor attention. ISPRS Journal of Photogrammetry and Remote Sensing, 202, 114-124.
+1. Peng, Z., Ma, Y., Zhang, Y., Li, H., Fan, F., & **Mei, X.** (2023). Seamless UAV hyperspectral image stitching using optimal seamline detection via graph cuts. IEEE Transactions on Geoscience and Remote Sensing.
 
 ## 2022
 1. 徐涵, **梅晓光***, 樊凡, 马泳, & 马佳义, 信息分离和质量引导的红外与可见光图像融合, 中国图象图形学报, 27(11), 3316-3330, 2022
 1. X. Wang, Y. Cheng, **X. Mei**, J. Jiang and J. Ma, "Group Shuffle and Spectral-Spatial Fusion for Hyperspectral Image Super-Resolution," in IEEE Transactions on Computational Imaging, vol. 8, pp. 1223-1236, 2022
-1. E. Pan, Y. Ma, **X. Mei***, J. Huang, F. Fan and J. Ma, "Letter: D2Net: Deep denoising network in frequency domain for hyperspectral image," in IEEE/CAA Journal of Automatica Sinica, doi: 10.1109/JAS.2022.106019.
+1. E. Pan, Y. Ma, **X. Mei***, J. Huang, F. Fan and J. Ma, "Letter: D2Net: Deep denoising network in frequency domain for hyperspectral image," in IEEE/CAA Journal of Automatica Sinica, doi: 10.1109/JAS.2022.106019. [![](https://img.shields.io/github/stars/meixiaoguang/D2Net?style=social&label=Code+Stars)](https://github.com/meixiaoguang/D2Net)
 1. H. Xu, Y. Sun, **X. Mei**, X. Tian and J. Ma, "Attention-Guided Polarization Image Fusion Using Salient Information Distribution," in IEEE Transactions on Computational Imaging, vol. 8, pp. 1117-1130, 2022, doi: 10.1109/TCI.2022.3228633.
 1. Y. Yao, M. Wang, G. Fan, W. Liu, Y. Ma, **X. Mei**, "Dictionary Learning-Cooperated Matrix Decomposition for Hyperspectral Target Detection. Remote Sensing," 14(17), 4369, 2022
 1. Y. Yu, Y. Ma, **X. Mei***, F. Fan, J. Huang, H.  Li, "Multi-stage convolutional autoencoder network for hyperspectral unmixing. International Journal of Applied Earth Observation and Geoinformation," 113, 102981, 2022
@@ -30,7 +32,7 @@ A pixel-level local contrast measure for infrared small target detection, Defenc
 1. 徐涵, **梅晓光***, 樊凡, 马泳 and 马佳义, "分离表征和指标驱动的红外可见光图像融合," 中国图象图形学报, 2021.
 2. Y. Zhang, Y. Ma, X. Dai, H. Li, **X. Mei*** and J. Ma, "Locality-constrained sparse representation for hyperspectral image classification," Inform. Sciences, vol. 546, pp. 858-870, 2021. [![](https://img.shields.io/github/stars/meixiaoguang/LSRC?style=social&label=Code+Stars)](https://github.com/meixiaoguang/LSRC)
 3. C. Sui, J. Zhou, C. Li, Q. Zhang, J. Feng, **X. Mei**, J. Wang, "Unsupervised hyperspectral band selection with multigraph integrated embedding and robust self-contained regression," IEEE T. Geosci. Remote, vol. 60, pp. 1-15, 2021.
-4. E. Pan, Y. Ma, F. Fan, **X. Mei** and J. Huang, "Hyperspectral Image Classification across Different Datasets: A Generalization to Unseen Categories," Remote Sens.-Basel, vol. 13, no. 9, pp. 1672, 2021.
+4. E. Pan, Y. Ma, F. Fan, **X. Mei** and J. Huang, "Hyperspectral Image Classification across Different Datasets: A Generalization to Unseen Categories," Remote Sens.-Basel, vol. 13, no. 9, pp. 1672, 2021. [![](https://img.shields.io/github/stars/meixiaoguang/HSIZSL?style=social&label=Code+Stars)](https://github.com/meixiaoguang/HSIZSL)
 5. J. Ma, X. Ye, H. Zhou, **X. Mei** and F. Fan, "Loop-closure detection using local relative orientation matching," IEEE T. Intell. Transp., 2021.
 6. Z. Qiu, Y. Ma, F. Fan, J. Huang, M. Wu and **X. Mei**, "A pixel-level local contrast measure for infrared small target detection," Defence Technology, 2021.
 8. G. Fan, Y. Ma, **X. Mei***, F. Fan, J. Huang and J. Ma, "Hyperspectral anomaly detection with robust graph autoencoders," IEEE T. Geosci. Remote, 2021. [![](https://img.shields.io/github/stars/meixiaoguang/RGAE?style=social&label=Code+Stars)](https://github.com/meixiaoguang/RGAE)
