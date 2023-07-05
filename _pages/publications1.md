@@ -25,9 +25,6 @@ A pixel-level local contrast measure for infrared small target detection, Defenc
 1. 樊港辉, 马泳, **梅晓光***, 黄珺, 樊凡, & 李皞. 空域协同自编码器的高光谱异常检测. 中国图象图形学报, 27(10): 3116-3126, 2022
 1. C. Ma, J. Jiang, H. Li, **X. Mei** & C. Bai, "Hyperspectral Image Classification via Spectral Pooling and Hybrid Transformer. Remote Sensing," 14(19), 4732, 2022
 
-
-
-
 ## 2021
 1. 徐涵, **梅晓光***, 樊凡, 马泳 and 马佳义, "分离表征和指标驱动的红外可见光图像融合," 中国图象图形学报, 2021.
 2. Y. Zhang, Y. Ma, X. Dai, H. Li, **X. Mei*** and J. Ma, "Locality-constrained sparse representation for hyperspectral image classification," Inform. Sciences, vol. 546, pp. 858-870, 2021. [![](https://img.shields.io/github/stars/meixiaoguang/LSRC?style=social&label=Code+Stars)](https://github.com/meixiaoguang/LSRC)
