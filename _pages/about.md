@@ -11,7 +11,7 @@ redirect_from:
 
 ## 📖 个人简介
 
-[**梅晓光**](http://eis.whu.edu.cn/ryDetail.shtml?rsh=00031418)，🧑 1984年10月出生，湖北宜都人，博士，[武汉大学电子信息学院](http://eis.whu.edu.cn/index.shtml)副教授，博士生导师，湖北省“杰出青年基金”获得者。2016年博士毕业于华中科技大学，获电路与系统博士学位，期间荣获“博士研究生国家奖学金”，同年进入武汉大学电子信息学院，从事博士后研究工作，出站后留校晋升为副教授。目前主要从事高/超光谱应用中的计算机视觉、机器学习等相关问题的研究，已在IEEE TIP/TNNLS/TGRS/TII、Pattern Recognition等国际权威期刊和CVPR、IROS等国际顶级会议上发表论文70余篇，其中高被引论文3篇，授权国家发明专利7项。主持了包括国家自然科学基金、湖北省杰出青年基金、中国博士后科学基金等多项科研项目。获中国自动化学会自然科学二等奖。担任IEEE TIP/GRSL/TCI/TSP/JSTARS/GRSL/ACCESS, Information Sciences、CVPR、ECCV等国际期刊和会议审稿人。
+[**梅晓光**](http://eis.whu.edu.cn/ryDetail.shtml?rsh=00031418)，🧑 1984年10月出生，湖北宜都人，博士，[武汉大学电子信息学院](http://eis.whu.edu.cn/index.shtml)副教授，博士生导师，湖北省“杰出青年基金”获得者。2016年博士毕业于华中科技大学，获电路与系统博士学位，期间荣获“博士研究生国家奖学金”，同年进入武汉大学电子信息学院，从事博士后研究工作，出站后留校晋升为副教授。目前主要从事高/超光谱应用中的计算机视觉、机器学习等相关问题的研究，已在IEEE TIP/TNNLS/TGRS/TII、Pattern Recognition等国际权威期刊和CVPR、IROS等国际顶级会议上发表论文70余篇，其中高被引论文3篇，授权国家发明专利7项。主持了包括国家自然科学基金、湖北省杰出青年基金、中国博士后科学基金等多项科研项目。获中国自动化学会自然科学二等奖。担任IEEE TIP/GRSL/TCI/TSP/JSTARS/GRSL/ACCESS, Information Sciences、CVPR、AAAI、ECCV等国际期刊和会议审稿人。
 
 ## 👨‍🎓 教育背景
 
@@ -31,11 +31,11 @@ redirect_from:
 * 高光谱
 * 计算机视觉
 
-## 🛠️ 学术兼职
+<!--## 🛠️ 学术兼职
 
 * 担任以下期刊审稿人工作:
 IEEE Transactions on Image Processing, IEEE Transactions on Geoscience and Remote Sensing, IEEE Transactions on Computational Imaging, IEEE Journal of Selected Topics in Signal Processing, IEEE J-STARS, IEEE Geoscience and Remote Sensing Letters, IEEE Access, Pattern Recognition, Information Sciences, Infrared Physics & Technology
-* 担任Sensors期刊"Special Issue: Research and Application of Robust Hyperspectral Image"客座编辑
+* 担任Sensors期刊"Special Issue: Research and Application of Robust Hyperspectral Image"客座编辑-->
 
 ## 📧 联系方式
 
