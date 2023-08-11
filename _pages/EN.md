@@ -17,10 +17,10 @@ author_profile: true
 * Guest Editor for Sensors, Special Issue "Research and Application of Robust Hyperspectral Image"
 * Reviewer for IEEE TIP/GRSL/TCI/TSP/JSTARS/GRSL/ACCESS, Information Sciences, Infrared Physics & Technology, etc-->
 
+
+{% include_relative publications1.md %}
+
+
 # 📧 Contacts
 
 **<font color=red>(Preferred)👉👉</font>**![照片](/images/gmail.png)   ![照片](/images/mailwhu.png)
-
-
-
-{% include_relative publications1.md %}
