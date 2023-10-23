@@ -44,4 +44,6 @@ IEEE Transactions on Image Processing, IEEE Transactions on Geoscience and Remot
 
 
 
-* 电子邮箱： **<font color=red>(优先)👉👉</font>**![照片](/images/gmail.png)   ![照片](/images/mailwhu.png)
+* 电子邮箱： ![照片](/images/gmail.png) 
+ <!--**<font color=red>(优先)👉👉</font>**![照片](/images/gmail.png)   ![照片](/images/mailwhu.png)-->
+
