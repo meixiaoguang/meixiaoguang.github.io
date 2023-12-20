@@ -9,6 +9,9 @@
 1. Pan, E., Ma, Y., **Mei, X.**, Fan, F., & Ma, J. (2023). Hyperspectral image denoising via spectral noise distribution bootstrap. Pattern Recognition, 142, 109699. [![](https://img.shields.io/github/stars/meixiaoguang/N-Net?style=social&label=Code+Stars)](https://github.com/meixiaoguang/N-Net)
 1. Li, Z., Ma, Y., **Mei, X.**, & Ma, J. (2023). Two-view correspondence learning using graph neural network with reciprocal neighbor attention. ISPRS Journal of Photogrammetry and Remote Sensing, 202, 114-124.
 1. Peng, Z., Ma, Y., Zhang, Y., Li, H., Fan, F., & **Mei, X.** (2023). Seamless UAV hyperspectral image stitching using optimal seamline detection via graph cuts. IEEE Transactions on Geoscience and Remote Sensing.
+1. Cai, Z., Ma, Y., Huang, J., **Mei, X.**, & Fan, F. (2023). Correlation-Guided Discriminative Cross-Modality Features Network for Infrared and Visible Image Fusion. IEEE Transactions on Instrumentation and Measurement.
+1. Sun, Y., Xu, H., Ma, Y., Wu, M., **Mei, X.**, Huang, J., & Ma, J. (2023). Dual Spatial-spectral Pyramid Network with Transformer for Hyperspectral Image Fusion. IEEE Transactions on Geoscience and Remote Sensing.
+1. 靳淇文, 马泳, 樊凡, 黄珺, 李皞, & **梅晓光**. (2023). 生成对抗网络的无监督高光谱解混. Journal of Remote Sensing, 27(8).
 
 ## 2022
 1. 徐涵, **梅晓光***, 樊凡, 马泳, & 马佳义, 信息分离和质量引导的红外与可见光图像融合, 中国图象图形学报, 27(11), 3316-3330, 2022
