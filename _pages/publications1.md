@@ -10,7 +10,7 @@
 1. Li, Z., Ma, Y., **Mei, X.**, & Ma, J. (2023). Two-view correspondence learning using graph neural network with reciprocal neighbor attention. ISPRS Journal of Photogrammetry and Remote Sensing, 202, 114-124.
 1. Peng, Z., Ma, Y., Zhang, Y., Li, H., Fan, F., & **Mei, X.** (2023). Seamless UAV hyperspectral image stitching using optimal seamline detection via graph cuts. IEEE Transactions on Geoscience and Remote Sensing.
 1. Cai, Z., Ma, Y., Huang, J., **Mei, X.**, & Fan, F. (2023). Correlation-Guided Discriminative Cross-Modality Features Network for Infrared and Visible Image Fusion. IEEE Transactions on Instrumentation and Measurement.
-1. Sun, Y., Xu, H., Ma, Y., Wu, M., **Mei, X.**, Huang, J., & Ma, J. (2023). Dual Spatial-spectral Pyramid Network with Transformer for Hyperspectral Image Fusion. IEEE Transactions on Geoscience and Remote Sensing.
+1. Sun, Y., Xu, H., Ma, Y., Wu, M., **Mei, X.**, Huang, J., & Ma, J. (2023). Dual Spatial-spectral Pyramid Network with Transformer for Hyperspectral Image Fusion. IEEE Transactions on Geoscience and Remote Sensing. [![](https://img.shields.io/github/stars/meixiaoguang/DSPNet?style=social&label=Code+Stars)](https://github.com/meixiaoguang/DSPNet)
 1. 靳淇文, 马泳, 樊凡, 黄珺, 李皞, & **梅晓光**. (2023). 生成对抗网络的无监督高光谱解混. Journal of Remote Sensing, 27(8).
 
 ## 2022
@@ -18,8 +18,8 @@
 1. X. Wang, Y. Cheng, **X. Mei**, J. Jiang and J. Ma, "Group Shuffle and Spectral-Spatial Fusion for Hyperspectral Image Super-Resolution," in IEEE Transactions on Computational Imaging, vol. 8, pp. 1223-1236, 2022
 1. E. Pan, Y. Ma, **X. Mei***, J. Huang, F. Fan and J. Ma, "Letter: D2Net: Deep denoising network in frequency domain for hyperspectral image," in IEEE/CAA Journal of Automatica Sinica, doi: 10.1109/JAS.2022.106019. [![](https://img.shields.io/github/stars/meixiaoguang/D2Net?style=social&label=Code+Stars)](https://github.com/meixiaoguang/D2Net)
 1. H. Xu, Y. Sun, **X. Mei**, X. Tian and J. Ma, "Attention-Guided Polarization Image Fusion Using Salient Information Distribution," in IEEE Transactions on Computational Imaging, vol. 8, pp. 1117-1130, 2022, doi: 10.1109/TCI.2022.3228633.
-1. Y. Yao, M. Wang, G. Fan, W. Liu, Y. Ma, **X. Mei**, "Dictionary Learning-Cooperated Matrix Decomposition for Hyperspectral Target Detection. Remote Sensing," 14(17), 4369, 2022
-1. Y. Yu, Y. Ma, **X. Mei***, F. Fan, J. Huang, H.  Li, "Multi-stage convolutional autoencoder network for hyperspectral unmixing. International Journal of Applied Earth Observation and Geoinformation," 113, 102981, 2022
+1. Y. Yao, M. Wang, G. Fan, W. Liu, Y. Ma, **X. Mei**, "Dictionary Learning-Cooperated Matrix Decomposition for Hyperspectral Target Detection. Remote Sensing," 14(17), 4369, 2022 [![](https://img.shields.io/github/stars/meixiaoguang/PAPIF?style=social&label=Code+Stars)](https://github.com/meixiaoguang/PAPIF)
+1. Y. Yu, Y. Ma, **X. Mei***, F. Fan, J. Huang, H.  Li, "Multi-stage convolutional autoencoder network for hyperspectral unmixing. International Journal of Applied Earth Observation and Geoinformation," 113, 102981, 2022 [![](https://img.shields.io/github/stars/meixiaoguang/JAG-MSNet?style=social&label=Code+Stars)](https://github.com/meixiaoguang/JAG-MSNet) 
 1. S. Mei, Y. Ma, **X. Mei**, J. Huang, F. Fan, "S2-Net: Self-Supervision Guided Feature Representation Learning for Cross-Modality Images. IEEE/CAA Journal of Automatica Sinica," 9(10), 1883-1885, 2022
 1. Y. Zhang, **X. Mei**, Y. Ma, X. Jiang, Z. Peng, J. Huang, "Hyperspectral Panoramic Image Stitching Using Robust Matching and Adaptive Bundle Adjustment," Remote Sensing, 4(16): 4038, 2022
 1. Z. Le, J. Huang, H. Xu, F. Fan, Y. Ma, **X. Mei**, J. Ma, "UIFGAN: An unsupervised continual-learning generative adversarial network for unified image fusion," Information Fusion, 2022
