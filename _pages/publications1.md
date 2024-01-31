@@ -11,7 +11,7 @@
 1. Peng, Z., Ma, Y., Zhang, Y., Li, H., Fan, F., & **Mei, X.** (2023). Seamless UAV hyperspectral image stitching using optimal seamline detection via graph cuts. IEEE Transactions on Geoscience and Remote Sensing.
 1. Cai, Z., Ma, Y., Huang, J., **Mei, X.**, & Fan, F. (2023). Correlation-Guided Discriminative Cross-Modality Features Network for Infrared and Visible Image Fusion. IEEE Transactions on Instrumentation and Measurement.
 1. Sun, Y., Xu, H., Ma, Y., Wu, M., **Mei, X.**, Huang, J., & Ma, J. (2023). Dual Spatial-spectral Pyramid Network with Transformer for Hyperspectral Image Fusion. IEEE Transactions on Geoscience and Remote Sensing. [![](https://img.shields.io/github/stars/meixiaoguang/DSPNet?style=social&label=Code+Stars)](https://github.com/meixiaoguang/DSPNet)
-1. 靳淇文, 马泳, 樊凡, 黄珺, 李皞, & **梅晓光**. (2023). 生成对抗网络的无监督高光谱解混. Journal of Remote Sensing, 27(8).
+1. 靳淇文, 马泳, 樊凡, 黄珺, 李皞, & **梅晓光**. (2023). 生成对抗网络的无监督高光谱解混. Journal of Remote Sensing, 27(8). [![](https://img.shields.io/github/stars/meixiaoguang/AAENet?style=social&label=Code+Stars)](https://github.com/meixiaoguang/AAENet)
 
 ## 2022
 1. 徐涵, **梅晓光***, 樊凡, 马泳, & 马佳义, 信息分离和质量引导的红外与可见光图像融合, 中国图象图形学报, 27(11), 3316-3330, 2022
@@ -29,7 +29,7 @@
 4. J. Ma, L. Tang, F. Fan, J. Huang, **X. Mei**, Y. Ma, "SwinFusion: Cross-domain Long-range Learning for General Image Fusion via Swin Transformer," IEEE/CAA Journal of Automatica Sinica, 9(7), 1200-1217, 2022. [![](https://img.shields.io/github/stars/meixiaoguang/SwinFusion?style=social&label=Code+Stars)](https://github.com/meixiaoguang/SwinFusion) **<font color=red>Hsue-shen Tsien Paper Award（钱学森论文奖，IEEE/CAA JAS唯一最佳论文奖）</font>** 🔥🔥 
 1. Zhao-bing Qiu, Yong Ma, Fan Fan, Jun Huang, Ming-hui Wu, **Xiao-guang Mei**,
 A pixel-level local contrast measure for infrared small target detection, Defence Technology, Volume 18, Issue 9, 2022, Pages 1589-1601,
-1. 樊港辉, 马泳, **梅晓光***, 黄珺, 樊凡, & 李皞. 空域协同自编码器的高光谱异常检测. 中国图象图形学报, 27(10): 3116-3126, 2022
+1. 樊港辉, 马泳, **梅晓光***, 黄珺, 樊凡, & 李皞. 空域协同自编码器的高光谱异常检测. 中国图象图形学报, 27(10): 3116-3126, 2022 
 1. C. Ma, J. Jiang, H. Li, **X. Mei** & C. Bai, "Hyperspectral Image Classification via Spectral Pooling and Hybrid Transformer. Remote Sensing," 14(19), 4732, 2022
 
 ## 2021
