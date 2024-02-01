@@ -11,7 +11,7 @@ redirect_from:
 
 ## 📖 个人简介
 
-[**梅晓光**](http://eis.whu.edu.cn/ryDetail.shtml?rsh=00031418)，🧑 1984年10月出生，湖北宜都人，博士，[武汉大学电子信息学院](http://eis.whu.edu.cn/index.shtml)副教授，博士生导师，湖北省“杰出青年基金”获得者。2016年博士毕业于华中科技大学，获电路与系统博士学位，期间荣获“博士研究生国家奖学金”，同年进入武汉大学电子信息学院，从事博士后研究工作，出站后留校晋升为副教授。目前主要从事高光谱、计算机视觉等领域的研究，已在IEEE TIP/TNNLS/TGRS/TII、Pattern Recognition等国际权威期刊和CVPR、IROS等国际顶级会议上发表论文80余篇，其中高被引论文4篇，1篇进入全球学者库[“2020年度中国机构学者在计算机人工智能期刊发表的高价值论文TOP100”](http://www.globalauthorid.com/WebPortal/NewsView?InfoID=8666b7f5-3d5b-43f9-b00f-4201a68c2782)名单，授权国家发明专利8项。主持了包括军委科技委创新项目、教育部联合基金青年人才项目、国家自然科学基金、湖北省杰出青年基金、中国博士后科学基金等多项科研项目。研究成果获中国自动化学会自然科学二等奖，<!--担任IEEE TIP/GRSL/TCI/TSP/JSTARS/GRSL/ACCESS, Information Sciences、CVPR、AAAI、ECCV等国际期刊和会议审稿人。-->国际期刊IEEE/CAA Journal of Automatica Sinica 2023年度钱学森论文奖（Hsue-shen Tsien Paper Award）。
+[**梅晓光**](http://eis.whu.edu.cn/ryDetail.shtml?rsh=00031418)，🧑 1984年10月出生，湖北宜都人，博士，[武汉大学电子信息学院](http://eis.whu.edu.cn/index.shtml)副教授，博士生导师，湖北省“杰出青年基金”获得者。2016年博士毕业于华中科技大学，获电路与系统博士学位，期间荣获“博士研究生国家奖学金”，后进入武汉大学电子信息学院，从事博士后研究工作，出站后留校并晋升为副教授。目前主要从事高光谱、计算机视觉等领域的研究，已在IEEE TIP/TNNLS/TGRS/TII、Pattern Recognition等国际权威期刊和CVPR、IROS等国际顶级会议上发表论文80余篇，其中高被引论文4篇，1篇进入全球学者库[“2020年度中国机构学者在计算机人工智能期刊发表的高价值论文TOP100”](http://www.globalauthorid.com/WebPortal/NewsView?InfoID=8666b7f5-3d5b-43f9-b00f-4201a68c2782)名单，授权国家发明专利8项。主持了包括军委科技委创新项目、教育部联合基金青年人才项目、国家自然科学基金、湖北省杰出青年基金、中国博士后科学基金等多项科研项目。研究成果获中国自动化学会自然科学二等奖，<!--担任IEEE TIP/GRSL/TCI/TSP/JSTARS/GRSL/ACCESS, Information Sciences、CVPR、AAAI、ECCV等国际期刊和会议审稿人。-->国际期刊IEEE/CAA Journal of Automatica Sinica 2023年度钱学森论文奖（Hsue-shen Tsien Paper Award）。
 
 
 
