@@ -1,4 +1,7 @@
-# 📝 Journal Papers
+# 📝 Publications
+## 2024
+1. Yifan Lu, Jiayi Ma, **Xiaoguang Mei**, Jun Huang, Xiao-Ping (Steven) Zhang, Feature Matching via Topology-Aware Graph Interaction Model. IEEE CAA J. Autom. Sinica 11(1): 113-130 (2024)
+1. Yang Yu, Erting Pan, Xinya Wang, Yuheng Wu, **Xiaoguang Mei***, Jiayi Ma, Unmixing before Fusion: A Generalized Paradigm for Multi-modality-based Hyperspectral Image Synthesis, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2024, Seattle, USA, 2024
 
 ## 2023
 1. Pan, E., Ma, Y., **Mei, X.**, Huang, J., Chen, Q., & Ma, J. (2023). Hyperspectral image destriping and denoising from a task decomposition view. Pattern Recognition, 109832.
@@ -14,6 +17,7 @@
 1. 靳淇文, 马泳, 樊凡, 黄珺, 李皞, & **梅晓光**. (2023). 生成对抗网络的无监督高光谱解混. Journal of Remote Sensing, 27(8). [![](https://img.shields.io/github/stars/meixiaoguang/AAENet?style=social&label=Code+Stars)](https://github.com/meixiaoguang/AAENet)
 
 ## 2022
+1. A. Fan, J. Ma, X. Tian, **X. Mei**, W. Liu,"Coherent Point Drift Revisited for Non-Rigid Shape Matching and Registration," Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022.
 1. 徐涵, **梅晓光***, 樊凡, 马泳, & 马佳义, 信息分离和质量引导的红外与可见光图像融合, 中国图象图形学报, 27(11), 3316-3330, 2022
 1. X. Wang, Y. Cheng, **X. Mei**, J. Jiang and J. Ma, "Group Shuffle and Spectral-Spatial Fusion for Hyperspectral Image Super-Resolution," in IEEE Transactions on Computational Imaging, vol. 8, pp. 1223-1236, 2022
 1. E. Pan, Y. Ma, **X. Mei***, J. Huang, F. Fan and J. Ma, "Letter: D2Net: Deep denoising network in frequency domain for hyperspectral image," in IEEE/CAA Journal of Automatica Sinica [![](https://img.shields.io/github/stars/meixiaoguang/D2Net?style=social&label=Code+Stars)](https://github.com/meixiaoguang/D2Net)
@@ -46,6 +50,10 @@ A pixel-level local contrast measure for infrared small target detection, Defenc
 13. J. Ma, S. Wang, K. Zhang, Z. He, J. Huang and **X. Mei**, "Fast and Robust Loop-closure Detection via Convolutional Auto-encoder and Motion Consensus," IEEE T. Ind. Inform., 2021.
 14. A. Fan, X. Jiang, Y. Ma, **X. Mei** and J. Ma, "Smoothness-Driven Consensus Based on Compact Representation for Robust Feature Matching," IEEE T. Neur. Net. Lear., 2021. [![](https://img.shields.io/github/stars/meixiaoguang/CompactRepresentationConsensus?style=social&label=Code+Stars)](https://github.com/meixiaoguang/CompactRepresentationConsensus)
 15. Y. Yu, Y. Ma, **X. Mei**, F. Fan, J. Huang and J. Ma, "A Spatial-Spectral Feature Descriptor for Hyperspectral Image Matching," Remote Sens.-Basel, vol. 13, no. 23, pp. 4912, 2021.
+1. G. Fan, Y. Ma, J. Huang, **X. Mei**, and J. Ma, “Robust graph autoencoder for hyperspectral anomaly detection,” in ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP)**. IEEE, 2021, pp. 1830–1834.
+2. Q. Jin, Y. Ma, **X. Mei**, H. Li, and J. Ma, “Utdn: An unsupervised two-stream dirichlet-net for hyperspectral unmixing,” in ICASSP 2021- 2021 IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP)**. IEEE, 2021, pp. 1885–1889.
+3. E. Pan, Y. Ma, **X. Mei**, F. Fan, and J. Ma, “Unsupervised stacked capsule autoencoder for hyperspectral image classification,” in ICASSP 2021- 2021 IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP)**. IEEE, 2021, pp. 1825–1829.
+4. K. Zhang, X. Jiang, **X. Mei**, H. Zhou, and J. Ma, “Motion field consensus with locality preservation: A geometric confirmation strategy for loop closure detection,” in 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems **(IROS)**. IEEE, pp. 445–451.
     
 ## 2020
 1. J. Chen, X. Li, L. Luo, **X. Mei*** and J. Ma, "Infrared and visible image fusion based on target-enhanced multiscale transform decomposition," Inform. Sciences, vol. 508, pp. 64-78, 2020. [![](https://img.shields.io/github/stars/meixiaoguang/TE-MST?style=social&label=Code+Stars)](https://github.com/meixiaoguang/TE-MST) **<font color=red>(ESI Highly Cited Paper)</font>** 🔥🔥 
@@ -66,6 +74,10 @@ A pixel-level local contrast measure for infrared small target detection, Defenc
 6. C. Sui, C. Li, J. Feng and **X. Mei**, "Unsupervised manifold-preserving and weakly redundant band selection method for hyperspectral imagery," IEEE T. Geosci. Remote, vol. 58, no. 2, pp. 1156-1170, 2019.
 7. Y. Ma, Y. Zhang, **X. Mei***, X. Dai and J. Ma, "Multifeature-based discriminative label consistent k-svd for hyperspectral image classification," Ieee J.-Stars, vol. 12, no. 12, pp. 4995-5008, 2019.
 8. J. Ma, X. Wang, Y. He, **X. Mei** and J. Zhao, "Line-based stereo slam by junction matching and vanishing point alignment," IEEE Access, vol. 7, pp. 181800-181811, 2019.
+1. L. Luo, Q. Wan, J. Chen, Y. Wang, and **X. Mei**, “Drone image stitching guided by robust elastic warping and locality preserving matching,” in **IGARSS** 2019 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2019, pp. 9212–9215.
+6.  E. Pan, Y. Ma, X. Dai, F. Fan, J. Huang, **X. Mei**, and J. Ma, “GRU with spatial prior for hyperspectral image classification,” in **IGARSS** 2019 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2019, pp. 967–970.
+7.  Q. Jin, Y. Ma, **X. Mei**, X. Dai, H. Li, F. Fan, and J. Huang, “Gaussian mixture model for hyperspectral unmixing with low-rank representation,” in **IGARSS** 2019 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2019, pp. 294–297.
+8.  E. Pan, Y. Ma, **X. Mei**, X. Dai, F. Fan, X. Tian, and J. Ma, “Spectral-spatial classification of hyperspectral image based on a joint attention network,” in **IGARSS** 2019 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2019, pp. 413–416.
 
 ## 2018
 1. **X. Mei**, Y. Ma, C. Li, F. Fan, J. Huang and J. Ma, "Robust GBM hyperspectral image unmixing with superpixel segmentation based low rank and sparse representation," Neurocomputing, vol. 275, pp. 2783-2797, 2018. [![](https://img.shields.io/github/stars/meixiaoguang/RGBM-SS-LRR?style=social&label=Code+Stars)](https://github.com/meixiaoguang/RGBM-SS-LRR)
@@ -96,16 +108,4 @@ A pixel-level local contrast measure for infrared small target detection, Defenc
 ## 2013
 1.  B. Zhou, S. Wang, Y. Ma, **X. Mei**, B. Li, H. Li, F. Fan, "An infrared image impulse noise suppression algorithm based on fuzzy logic," Infrared Phys. Techn., vol. 60, pp. 346-358, 2013.
 
-# 🎤 Conference Papers
 
-1. A. Fan, J. Ma, X. Tian, **X. Mei**, W. Liu,"Coherent Point Drift Revisited for Non-Rigid Shape Matching and Registration," Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022.
-1. G. Fan, Y. Ma, J. Huang, **X. Mei**, and J. Ma, “Robust graph autoencoder for hyperspectral anomaly detection,” in ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP)**. IEEE, 2021, pp. 1830–1834.
-2. Q. Jin, Y. Ma, **X. Mei**, H. Li, and J. Ma, “Utdn: An unsupervised two-stream dirichlet-net for hyperspectral unmixing,” in ICASSP 2021- 2021 IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP)**. IEEE, 2021, pp. 1885–1889.
-3. E. Pan, Y. Ma, **X. Mei**, F. Fan, and J. Ma, “Unsupervised stacked capsule autoencoder for hyperspectral image classification,” in ICASSP 2021- 2021 IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP)**. IEEE, 2021, pp. 1825–1829.
-4. K. Zhang, X. Jiang, **X. Mei**, H. Zhou, and J. Ma, “Motion field consensus with locality preservation: A geometric confirmation strategy for loop closure detection,” in 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems **(IROS)**. IEEE, pp. 445–451.
-1. L. Luo, Q. Wan, J. Chen, Y. Wang, and **X. Mei**, “Drone image stitching guided by robust elastic warping and locality preserving matching,” in **IGARSS** 2019 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2019, pp. 9212–9215.
-6.  E. Pan, Y. Ma, X. Dai, F. Fan, J. Huang, **X. Mei**, and J. Ma, “GRU with spatial prior for hyperspectral image classification,” in **IGARSS** 2019 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2019, pp. 967–970.
-7.  Q. Jin, Y. Ma, **X. Mei**, X. Dai, H. Li, F. Fan, and J. Huang, “Gaussian mixture model for hyperspectral unmixing with low-rank representation,” in **IGARSS** 2019 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2019, pp. 294–297.
-8.  E. Pan, Y. Ma, **X. Mei**, X. Dai, F. Fan, X. Tian, and J. Ma, “Spectral-spatial classification of hyperspectral image based on a joint attention network,” in **IGARSS** 2019 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2019, pp. 413–416.
-9.  F. Fan, Y. Ma, X. Dai, **X. Mei**, “An optimization model for infrared image enhancement method based on pq norm constrained by saliency value,”  in 2017 9th International Conference on Graphic and Image Processing **(ICGIP 2017)**. International Society for Optics and Photonics, 2018, 10615: 106152P.
-10. H. Xia, G. Zhang, M. Chen, and **X. Mei**, “Two-round cooperation based spectrum sensing in cognitive radio networks,” in 2010 6th International Conference on Wireless Communications Networking and Mobile Computing **(WiCOM)**. IEEE, 2010, pp. 1–5.
