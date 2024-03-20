@@ -1,7 +1,7 @@
 # 📝 Publications
 ## 2024
 1. Yifan Lu, Jiayi Ma, **Xiaoguang Mei**, Jun Huang, Xiao-Ping (Steven) Zhang, Feature Matching via Topology-Aware Graph Interaction Model. IEEE CAA J. Autom. Sinica 11(1): 113-130 (2024)
-1. Yang Yu, Erting Pan, Xinya Wang, Yuheng Wu, **Xiaoguang Mei***, Jiayi Ma, Unmixing before Fusion: A Generalized Paradigm for Multi-modality-based Hyperspectral Image Synthesis, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2024, Seattle, USA, 2024
+1. Yang Yu, Erting Pan, Xinya Wang, Yuheng Wu, **Xiaoguang Mei***, Jiayi Ma, Unmixing before Fusion: A Generalized Paradigm for Multi-modality-based Hyperspectral Image Synthesis, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2024, Seattle, USA, 2024  [**[website]**](HSI-Synthesis.github.io)
 
 ## 2023
 1. Pan, E., Ma, Y., **Mei, X.**, Huang, J., Chen, Q., & Ma, J. (2023). Hyperspectral image destriping and denoising from a task decomposition view. Pattern Recognition, 109832.
