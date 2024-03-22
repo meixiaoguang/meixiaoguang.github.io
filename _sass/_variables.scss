@@ -63,11 +63,11 @@ $masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
 $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;*/
 
 $background-color: #fff !default;
-$text-color: #000 !default;
+$text-color: $dark-gray !default;
 $primary-color: #00adb5 !default;
-$border-color: mix(#fff, $background-color, 20%) !default;
-$code-background-color: mix(#fff, $background-color, 15%) !default;
-$code-background-color-dark: mix(#fff, $background-color, 20%) !default;
+$border-color: $lighter-gray !default;
+$code-background-color: #fafafa !default;
+$code-background-color-dark: $light-gray !default;
 $form-background-color: mix(#fff, $background-color, 15%) !default;
 $footer-background-color: mix(#fff, $background-color, 30%) !default;
 $link-color: mix($primary-color, $text-color, 40%) !default;
