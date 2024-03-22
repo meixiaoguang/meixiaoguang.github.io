@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "梅晓光 (Xiaoguang Mei)"
   avatar           : "profile.png"
-  bio              : "博士，副教授，博士生导师，武汉大学电子信息学院 (Ph.D., Associated Professor, Electronic Information School, Wuhan University)" 
+  bio              : "博士，武汉大学电子信息学院副教授，博士生导师 (Ph.D., Associated Professor, Electronic Information School, Wuhan University)" 
   location         : "武汉 (Wuhan, China)"
   employer         : "武汉大学 (Wuhan University)"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=2rgDpugAAAAJ&view_op=list_works&sortby=pubdate"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=2rgDpugAAAAJ"
   email            : "meixiaoguang@gmail.com"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   #uri              :
