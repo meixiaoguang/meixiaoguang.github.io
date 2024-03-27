@@ -21,6 +21,6 @@ author_profile: true
 {% include_relative publications1.md %}
 
 
-# 📧 Contact
+# 📧 Contacts
 ![照片](/images/gmail.png) 
 ![照片](/images/mailwhu.png)
