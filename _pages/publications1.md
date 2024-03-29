@@ -3,6 +3,8 @@
 1. Wendi Liu, Yong Ma, Xiaozhu Wang, Jun Huang, Qihai Chen, Hao Li, **Xiaoguang Mei***, "UADNet: A Joint Unmixing and Anomaly Detection Network Based on Deep Clustering for Hyperspectral Image," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2024.33759341. 
 1. Yifan Lu, Jiayi Ma, **Xiaoguang Mei**, Jun Huang, Xiao-Ping (Steven) Zhang, Feature Matching via Topology-Aware Graph Interaction Model. IEEE CAA J. Autom. Sinica 11(1): 113-130 (2024)
 1. Yang Yu, Erting Pan, Xinya Wang, Yuheng Wu, **Xiaoguang Mei***, Jiayi Ma, Unmixing before Fusion: A Generalized Paradigm for Multi-modality-based Hyperspectral Image Synthesis, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2024, Seattle, USA, 2024  [![](https://img.shields.io/github/stars/meixiaoguang/GMM-GLRl1?style=social&label=Code+Stars)](https://hsi-synthesis.github.io)
+1. Hebaixu Wang, Meiqi Gong, **Xiaoguang Mei**, Hao Zhang, and Jiayi Ma. "Deep Unfolded Network with Intrinsic Supervision for Pan-Sharpening", Proceedings of the AAAI Conference on Artificial Intelligence 38.6 (**AAAI 2024**): 5419-5426.
+
 
 ## 2023
 1. Pan, E., Ma, Y., **Mei, X.**, Huang, J., Chen, Q., & Ma, J. (2023). Hyperspectral image destriping and denoising from a task decomposition view. Pattern Recognition, 109832.
