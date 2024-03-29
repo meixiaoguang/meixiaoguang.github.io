@@ -88,5 +88,3 @@ IEEE Transactions on Image Processing, IEEE Transactions on Geoscience and Remot
 </center>
 
 --- -->
-
-<a href="https://info.flagcounter.com/21GO"><img src="https://s01.flagcounter.com/map/21GO/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
