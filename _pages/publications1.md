@@ -1,5 +1,7 @@
 
 ## 2024
+1. Chen, Yantao, Yong Ma, **Xiaoguang Mei**, Lin Zhang, Zhigang Fu, and Jiayi Ma. “Triple-Task Mutual Consistency for Semi-Supervised 3D Medical Image Segmentation.” Computers in Biology and Medicine, 2024. [![](https://img.shields.io/github/stars/meixiaoguang/TTMC?style=social&label=Code+Stars)](https://github.com/meixiaoguang/TTMC)
+1. Cheng, Yingsong, Xinya Wang, Yong Ma, **Xiaoguang Mei***, Minghui Wu, and Jiayi Ma. “General Hyperspectral Image Super-Resolution via Meta-Transfer Learning.” IEEE Transactions on Neural Networks and Learning Systems, 2024.
 1. Wendi Liu, Yong Ma, Xiaozhu Wang, Jun Huang, Qihai Chen, Hao Li, **Xiaoguang Mei***, "UADNet: A Joint Unmixing and Anomaly Detection Network Based on Deep Clustering for Hyperspectral Image," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2024.33759341. [![](https://img.shields.io/github/stars/meixiaoguang/TGRS2024_UADNet?style=social&label=Code+Stars)](https://github.com/meixiaoguang/TGRS2024_UADNet)
 1. Yifan Lu, Jiayi Ma, **Xiaoguang Mei**, Jun Huang, Xiao-Ping (Steven) Zhang, Feature Matching via Topology-Aware Graph Interaction Model. IEEE CAA J. Autom. Sinica 11(1): 113-130 (2024)
 1. Yang Yu, Erting Pan, Xinya Wang, Yuheng Wu, **Xiaoguang Mei***, Jiayi Ma, Unmixing before Fusion: A Generalized Paradigm for Multi-modality-based Hyperspectral Image Synthesis, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2024, Seattle, USA, 2024  [![](https://img.shields.io/github/stars/meixiaoguang/GMM-GLRl1?style=social&label=Code+Stars)](https://hsi-synthesis.github.io)
@@ -17,7 +19,7 @@
 1. Peng, Z., Ma, Y., Zhang, Y., Li, H., Fan, F., & **Mei, X.** (2023). Seamless UAV hyperspectral image stitching using optimal seamline detection via graph cuts. IEEE Transactions on Geoscience and Remote Sensing.
 1. Cai, Z., Ma, Y., Huang, J., **Mei, X.**, & Fan, F. (2023). Correlation-Guided Discriminative Cross-Modality Features Network for Infrared and Visible Image Fusion. IEEE Transactions on Instrumentation and Measurement.
 1. Sun, Y., Xu, H., Ma, Y., Wu, M., **Mei, X.**, Huang, J., & Ma, J. (2023). Dual Spatial-spectral Pyramid Network with Transformer for Hyperspectral Image Fusion. IEEE Transactions on Geoscience and Remote Sensing. [![](https://img.shields.io/github/stars/meixiaoguang/DSPNet?style=social&label=Code+Stars)](https://github.com/meixiaoguang/DSPNet)
-1. 靳淇文, 马泳, 樊凡, 黄珺, 李皞, & **梅晓光**. (2023). 生成对抗网络的无监督高光谱解混. Journal of Remote Sensing, 27(8). [![](https://img.shields.io/github/stars/meixiaoguang/AAENet?style=social&label=Code+Stars)](https://github.com/meixiaoguang/AAENet)
+1. 靳淇文, 马泳, 樊凡, 黄珺, 李皞, & **梅晓光***. (2023). 生成对抗网络的无监督高光谱解混. Journal of Remote Sensing, 27(8). [![](https://img.shields.io/github/stars/meixiaoguang/AAENet?style=social&label=Code+Stars)](https://github.com/meixiaoguang/AAENet)
 
 ## 2022
 1. A. Fan, J. Ma, X. Tian, **X. Mei**, W. Liu,"Coherent Point Drift Revisited for Non-Rigid Shape Matching and Registration," Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022.
