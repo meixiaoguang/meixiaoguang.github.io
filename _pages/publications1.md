@@ -1,5 +1,6 @@
 
 ## 2024
+1. Yu, Yang, Erting Pan, Yong Ma, **Xiaoguang Mei***, Qihai Chen, and Jiayi Ma. “UnmixDiff: Unmixing-Based Diffusion Model for Hyperspectral Image Synthesis.” IEEE Transactions on Geoscience and Remote Sensing 62 (2024): 1–18. https://doi.org/10.1109/tgrs.2024.3425517.[![](https://img.shields.io/github/stars/meixiaoguang/UnmixingDM?style=social&label=Code+Stars)](https://github.com/meixiaoguang/UnmixingDM)
 1. Pan, Erting, Yang Yu, **Xiaoguang Mei**, Jun Huang, and Jiayi Ma. “From the Abundance Perspective: Multi-Modal Scene Fusion-Based Hyperspectral Image Synthesis.” Information Fusion 108 (2024): 102419.[![](https://img.shields.io/github/stars/meixiaoguang/MSF-Diff?style=social&label=Code+Stars)](https://github.com/meixiaoguang/MSF-Diff)
 1. Yantao Chen, Yong Ma, **Xiaoguang Mei**, Lin Zhang, Zhigang Fu, and Jiayi Ma. “Triple-Task Mutual Consistency for Semi-Supervised 3D Medical Image Segmentation.” Computers in Biology and Medicine, 2024. [![](https://img.shields.io/github/stars/meixiaoguang/TTMC?style=social&label=Code+Stars)](https://github.com/meixiaoguang/TTMC)
 1. Yingsong Cheng, Xinya Wang, Yong Ma, **Xiaoguang Mei***, Minghui Wu, and Jiayi Ma. “General Hyperspectral Image Super-Resolution via Meta-Transfer Learning.” IEEE Transactions on Neural Networks and Learning Systems, 2024.
