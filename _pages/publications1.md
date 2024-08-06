@@ -9,7 +9,7 @@
 1. Yang Yu, Erting Pan, Xinya Wang, Yuheng Wu, **Xiaoguang Mei***, Jiayi Ma, Unmixing before Fusion: A Generalized Paradigm for Multi-modality-based Hyperspectral Image Synthesis, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2024, Seattle, USA, 2024  [![](https://img.shields.io/github/stars/meixiaoguang/GMM-GLRl1?style=social&label=Code+Stars)](https://hsi-synthesis.github.io)
 1. Hebaixu Wang, Meiqi Gong, **Xiaoguang Mei**, Hao Zhang, and Jiayi Ma. "Deep Unfolded Network with Intrinsic Supervision for Pan-Sharpening", Proceedings of the AAAI Conference on Artificial Intelligence 38.6 (**AAAI 2024**): 5419-5426.
 1. Cai, Zhao, Yong Ma, Jun Huang, Xiaoguang Mei, Fan Fan, and Zhiqing Zhao. “CMFuse: Cross-Modal Features Mixing via Convolution and MLP for Infrared and Visible Image Fusion.” IEEE Sensors Journal 24, no. 15 (August 1, 2024): 24152–67. https://doi.org/10.1109/jsen.2024.3410387.
-1. 柴静雯, 李安康, 张浩, 等. 结合局部全局特征与多尺度交互的三维多器官分割网络[J]. 中国图象图形学报, 2024, 29(3): 655-669.
+1. 柴静雯, 李安康, 张浩, 马泳, 梅晓光, & 马佳义. (2024). 结合局部全局特征与多尺度交互的三维多器官分割网络. 中国图象图形学报, 29(3), 655-669.
 
 
 ## 2023
