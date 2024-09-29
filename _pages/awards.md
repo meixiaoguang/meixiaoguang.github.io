@@ -4,7 +4,7 @@ title: ""
 permalink: /awards/
 author_profile: true
 ---
-
+* 2024年度获湖北省自然科学二等奖，对地观测图谱协同处理方法研究，第一完成人
 
 * 2023年Hsue-shen Tsien Paper Award（钱学森论文奖，IEEE/CAA JAS唯一最佳论文奖）
 
