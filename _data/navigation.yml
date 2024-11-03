@@ -22,7 +22,7 @@ main:
     # url: /year-archive/
   #  url: /others/  
 
-  - title: "English"
+  - title: "英文主页(English)"
     # url: /year-archive/
     url: /EN/  
     
