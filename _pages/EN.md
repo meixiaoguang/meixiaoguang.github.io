@@ -12,8 +12,6 @@ author_profile: true
  **Xiaoguang Mei** is associate professor at the School of Electronic Information, **[Wuhan University](https://www.whu.edu.cn/)** and a recipient of the Hubei Province "Outstanding Youth Fund". He received his bachelor's and doctoral degrees from **[Huazhong University of Science and Technology](https://www.hust.edu.cn/)**  in 2007 and 2016, respectively. During his doctoral studies, he won the "National Scholarship for Doctoral Students". He then entered the School of Electronic Information of Wuhan University to engage in postdoctoral research. Currently, he is mainly engaged in research in the fields of hyperspectral and computer vision. He has published more than 100 papers in international authoritative journals such as IEEE TIP/TNNLS/TGRS/TII, Pattern Recognition, and international top conferences such as CVPR, AAAI, and IROS, including 5 highly cited papers, and 1 of them has entered the list of "TOP100 High-value Papers Published by Chinese Institutional Scholars in Computer Artificial Intelligence Journals in 2020" in the Global Scholars Database. He has authorized 8 national invention patents. He has led projects projects such as the National Key R&D Program, the Hubei Province Outstanding Youth Project, and the National Natural Science Foundation. The research results won the second prize in natural sciences of Hubei Province (No. 1 Award Winner), the second prize in natural sciences of the Chinese Society of Automation, and the Hsue-shen Tsien Paper Award in 2023 of the international journal IEEE/CAA Journal of Automatica Sinica.
 
 
-# Education
-
 
 <!--# 🎉 Research Interests
 * Hyperspectral imagery
