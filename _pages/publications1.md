@@ -1,7 +1,8 @@
+## 2025
+1. Yang Pei, Yong Ma, **Xiaoguang Mei***, Qihai Chen, Minghui Wu, and Jiayi Ma. “Deep Blind Super-Resolution for Hyperspectral Images.” Pattern Recognition 157 (January 2025): 110916. https://doi.org/10.1016/j.patcog.2024.110916. [![](https://img.shields.io/github/stars/meixiaoguang/DBSR?style=social&label=Code+Stars)](https://github.com/meixiaoguang/DBSR)
 
 ## 2024
 1. Yucheng Sun, Yong Ma, Yuan Yao, **Xiaoguang Mei***, Jun Huang, and Jiayi Ma. “Domain Adaptation Hyperspectral Image Fusion Based on Spatial-Spectral Domain Separation.” Geo-Spatial Information Science, September 3, 2024, 1–15. https://doi.org/10.1080/10095020.2024.2380476
-1. Yang Pei, Yong Ma, **Xiaoguang Mei***, Qihai Chen, Minghui Wu, and Jiayi Ma. “Deep Blind Super-Resolution for Hyperspectral Images.” Pattern Recognition 157 (January 2025): 110916. https://doi.org/10.1016/j.patcog.2024.110916. [![](https://img.shields.io/github/stars/meixiaoguang/DBSR?style=social&label=Code+Stars)](https://github.com/meixiaoguang/DBSR)
 1. Yu, Yang, Erting Pan, Yong Ma, **Xiaoguang Mei***, Qihai Chen, and Jiayi Ma. “UnmixDiff: Unmixing-Based Diffusion Model for Hyperspectral Image Synthesis.” IEEE Transactions on Geoscience and Remote Sensing 62 (2024): 1–18. https://doi.org/10.1109/tgrs.2024.3425517.[![](https://img.shields.io/github/stars/meixiaoguang/UnmixingDM?style=social&label=Code+Stars)](https://github.com/meixiaoguang/UnmixingDM)
 1. Pan, Erting, Yang Yu, **Xiaoguang Mei**, Jun Huang, and Jiayi Ma. “From the Abundance Perspective: Multi-Modal Scene Fusion-Based Hyperspectral Image Synthesis.” Information Fusion 108 (2024): 102419.[![](https://img.shields.io/github/stars/meixiaoguang/MSF-Diff?style=social&label=Code+Stars)](https://github.com/meixiaoguang/MSF-Diff)
 1. Yantao Chen, Yong Ma, **Xiaoguang Mei**, Lin Zhang, Zhigang Fu, and Jiayi Ma. “Triple-Task Mutual Consistency for Semi-Supervised 3D Medical Image Segmentation.” Computers in Biology and Medicine, 2024. [![](https://img.shields.io/github/stars/meixiaoguang/TTMC?style=social&label=Code+Stars)](https://github.com/meixiaoguang/TTMC)
@@ -12,6 +13,9 @@
 1. Hebaixu Wang, Meiqi Gong, **Xiaoguang Mei**, Hao Zhang, and Jiayi Ma. "Deep Unfolded Network with Intrinsic Supervision for Pan-Sharpening", Proceedings of the AAAI Conference on Artificial Intelligence 38.6 (**AAAI 2024**): 5419-5426.
 1. Cai, Zhao, Yong Ma, Jun Huang, Xiaoguang Mei, Fan Fan, and Zhiqing Zhao. “CMFuse: Cross-Modal Features Mixing via Convolution and MLP for Infrared and Visible Image Fusion.” IEEE Sensors Journal 24, no. 15 (August 1, 2024): 24152–67. https://doi.org/10.1109/jsen.2024.3410387.
 1. 柴静雯, 李安康, 张浩, 马泳, 梅晓光, & 马佳义. (2024). 结合局部全局特征与多尺度交互的三维多器官分割网络. 中国图象图形学报, 29(3), 655-669.
+1. Du, You, Yong Ma, Jun Huang,**Xiaoguang Mei**, Jinhui Qin, and Fan Fan. “IRLF-SRNet: A Super-Resolution Network Based on Local–Global Feature Enhance-Refine for Camera-Array Based Infrared Light Field Images.” Infrared Physics & Technology 141 (August 10, 2024): 105494–94. https://doi.org/10.1016/j.infrared.2024.105494.
+
+‌
 
 
 ## 2023
