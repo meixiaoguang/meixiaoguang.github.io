@@ -14,7 +14,7 @@ author_profile: true
 # 📧 Contact info
 * ![照片](/images/gmail.png) （Primary）
 * ![照片](/images/mailwhu.png)
-* **[Twitter](https://x.com/Xiaoguang_Mei)** 
+<!--* **[Twitter](https://x.com/Xiaoguang_Mei)** -->
 
 <!--# 🎉 Research Interests
 * Hyperspectral imagery
